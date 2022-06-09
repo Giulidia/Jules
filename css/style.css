@@ -59,6 +59,18 @@
   --bs-body-bg: #fff;
 }
 
+
+
+
+
+
+.parallax {
+  background-attachment: fixed;
+  
+}
+
+
+
 *,
 *::before,
 *::after {
