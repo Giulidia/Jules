@@ -61,13 +61,17 @@
 
 
 
-
-
-
-.parallax {
+.dark-bg{
+  background-image: linear-gradient(rgba(186, 238, 214), (rgba(186, 238, 214), url("https://user-images.githubusercontent.com/100308775/176454396-d2504742-f251-45e2-833b-126bd1a5bf03.svg"));
+  background-repeat: cover;
+  background-position: center center;
   background-attachment: fixed;
-  
 }
+
+#hero.container {
+  height: 50vh;
+}
+
 
 
 *,
