@@ -91,6 +91,7 @@ body {
   line-height: var(--bs-body-line-height);
   color: var(--bs-body-color);
   text-align: var(--bs-body-text-align);
+  background-image: var (https://user-images.githubusercontent.com/100308775/176454396-d2504742-f251-45e2-833b-126bd1a5bf03.svg);
   background-color: var(--bs-body-bg);
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
