@@ -70,25 +70,6 @@
 }
 
 
-.hero-image {
-  background-image: url("https://user-images.githubusercontent.com/100308775/176454396-d2504742-f251-45e2-833b-126bd1a5bf03.svg");
-  height: 60%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-}
-
-.hero-text {
-  text-align: left;
-  position: absolute;
-  top: 50%;
-  left: 20%;
-  transform: translate(-50%, -50%);
-  color: white;
-}
-
-
 *,
 *::before,
 *::after {
@@ -11190,3 +11171,22 @@ textarea.form-control-lg {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+.hero-image {
+  background-image: url("https://user-images.githubusercontent.com/100308775/176454396-d2504742-f251-45e2-833b-126bd1a5bf03.svg");
+  height: 60%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: left;
+  position: absolute;
+  top: 50%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
