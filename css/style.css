@@ -9,8 +9,8 @@
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
   --bs-purple: #6f42c1;
-  --bs-pink: #dd99ff;
-  --bs-red: #dd99ff;
+  --bs-pink: #450099;
+  --bs-red: #450099;
   --bs-orange: #fd7e14;
   --bs-yellow: #ffc107;
   --bs-green: #198754;
@@ -28,10 +28,10 @@
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
-  --bs-primary: #dd99ff;
-  --bs-secondary: #dd99ff;
+  --bs-primary: #450099;
+  --bs-secondary: #10BEBE;
   --bs-success: #198754;
-  --bs-info: #dd99ff;
+  --bs-info: #10BEBE;
   --bs-warning: #ffc107;
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
@@ -228,7 +228,7 @@ sup {
 }
 
 a {
-  color: #dd99ff;
+  color: #450099;
   text-decoration: underline;
 }
 a:hover {
@@ -2943,8 +2943,8 @@ textarea.form-control-lg {
 }
 .btn-primary:disabled, .btn-primary.disabled {
   color: #000;
-  background-color: #dd99ff;
-  border-color: #dd99ff;
+  background-color: #450099;
+  border-color: #450099;
 }
 
 .btn-secondary {
@@ -6487,7 +6487,7 @@ textarea.form-control-lg {
 }
 
 .border-primary {
-  border-color: #dd99ff !important;
+  border-color: #450099 !important;
 }
 
 .border-secondary {
