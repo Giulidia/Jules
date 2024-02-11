@@ -143,8 +143,19 @@ h5, .h5 {
   font-size: 1.25rem;
 }
 
+@media (min-width: 1200px) {
+  h5, .h5 {
+    font-size: 1rem;
+  }
+}
+
 h6, .h6 {
   font-size: 0.9rem;
+}
+@media (min-width: 1200px) {
+  h6, .h6 {
+    font-size: 0.9rem;
+  }
 }
 
 p {
