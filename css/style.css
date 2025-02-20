@@ -87,16 +87,6 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
-.custom-shape-divider-bottom-1740045345 {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  overflow: hidden;
-  line-height: 0;
-  transform: rotate(180deg);
-}
-
 .custom-shape-divider-bottom-1740046795 {
   position: absolute;
   bottom: 0;
