@@ -2274,6 +2274,7 @@ progress {
   background-image: url("https://raw.githubusercontent.com/Giulidia/Jules/c429f9f098ee67e92c10225e9d52be52b5500af1/images/bg-img.svg");
   background-size: cover;
   position: relative;
+  min-height: 60vh;
 
 }
 
