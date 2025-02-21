@@ -2271,7 +2271,7 @@ progress {
 }
 
 .bg-img {
-  background-size: auto;
+  background-size: cover;
   position: relative;
 }
 
