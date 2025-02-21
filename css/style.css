@@ -2264,6 +2264,12 @@ progress {
   }
 }
 
+@media (max-width: 768px) {
+  .bg-img {
+    min-height: 30vh;
+  }
+}
+
 .bg-img {
   background-size: auto;
   position: relative;
