@@ -2264,6 +2264,14 @@ progress {
   }
 }
 
+.bg-svg {
+  background-image: url('https://raw.githubusercontent.com/Giulidia/Jules/6d8335c73b5774e26931330653fcac7cf5f22884/images/ecra%CC%83_branco.svg" viewBox="0 0 200 200"><circle cx="100" cy="100" r="80" fill="%23ff6600"/></svg>');
+  background-size: cover;
+  background-position: center;
+  height: 300px; /* Ajuste conforme necessário */
+}
+
+
 .form-label {
   margin-bottom: 0.5rem;
 }
