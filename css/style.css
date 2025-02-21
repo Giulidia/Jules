@@ -2266,8 +2266,6 @@ progress {
 
 @media (max-width: 768px) {
   .bg-img {
-    width: 805px;
-    height: 408px;
     min-height: 30vh;
   }
 }
