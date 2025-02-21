@@ -2264,6 +2264,12 @@ progress {
   }
 }
 
+.bg-img {
+  background-size: auto;
+  position: relative;
+}
+
+
 .form-label {
   margin-bottom: 0.5rem;
 }
