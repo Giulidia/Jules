@@ -1,16 +1,16 @@
-<svg width="630" height="419" viewBox="0 0 630 419" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect x="0.417635" y="417.875" width="413.572" height="629.165" rx="14.5824" transform="rotate(-90 0.417635 417.875)" fill="url(#pattern0_4790_436)"/>
-<rect x="0.417635" y="417.875" width="413.572" height="629.165" rx="14.5824" transform="rotate(-90 0.417635 417.875)" fill="#FAFAFA"/>
-<rect x="0.417635" y="417.875" width="413.572" height="629.165" rx="14.5824" transform="rotate(-90 0.417635 417.875)" stroke="black" stroke-width="0.83527"/>
-<path d="M30 0.5H600C607.085 0.5 612.349 0.501062 616.392 1.04472C620.422 1.58644 623.165 2.65864 625.253 4.74695C627.341 6.83527 628.414 9.57828 628.955 13.6075C629.486 17.5555 629.5 22.6663 629.5 29.5H0.500009C0.500354 22.6663 0.513928 17.5555 1.04472 13.6075C1.58644 9.57828 2.65864 6.83527 4.74695 4.74695C6.83527 2.65864 9.57828 1.58644 13.6075 1.04472C17.6512 0.501062 22.9148 0.5 30 0.5Z" fill="url(#paint0_linear_4790_436)" stroke="black"/>
-<circle cx="24" cy="15" r="6.5" fill="#E8DEFF" stroke="black"/>
-<circle cx="44" cy="15" r="6.5" fill="#E8DEFF" stroke="black"/>
-<circle cx="64" cy="15" r="6.5" fill="#E8DEFF" stroke="black"/>
+<svg width="777" height="516" viewBox="0 0 777 516" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="0.514483" y="514.778" width="509.477" height="775.065" rx="17.9639" transform="rotate(-90 0.514483 514.778)" fill="url(#pattern0_4790_436)"/>
+<rect x="0.514483" y="514.778" width="509.477" height="775.065" rx="17.9639" transform="rotate(-90 0.514483 514.778)" fill="#FAFAFA"/>
+<rect x="0.514483" y="514.778" width="509.477" height="775.065" rx="17.9639" transform="rotate(-90 0.514483 514.778)" stroke="black" stroke-width="1.02897"/>
+<path d="M36.9568 0.615947H739.137C747.865 0.615947 754.349 0.617256 759.331 1.28698C764.294 1.95432 767.673 3.27516 770.246 5.84774C772.819 8.42033 774.139 11.7994 774.807 16.7631C775.461 21.6265 775.477 27.9225 775.478 36.3409H0.615958C0.616384 27.9225 0.633106 21.6265 1.28698 16.7631C1.95432 11.7994 3.27516 8.42033 5.84774 5.84775L5.84775 5.84774C8.42033 3.27516 11.7994 1.95432 16.7631 1.28698C21.7444 0.617256 28.2286 0.615947 36.9568 0.615947Z" fill="url(#paint0_linear_4790_436)" stroke="black" stroke-width="1.23189"/>
+<circle cx="29.5647" cy="18.4787" r="8.00732" fill="#E8DEFF" stroke="black" stroke-width="1.23189"/>
+<circle cx="54.2014" cy="18.4787" r="8.00732" fill="#E8DEFF" stroke="black" stroke-width="1.23189"/>
+<circle cx="78.842" cy="18.4787" r="8.00732" fill="#E8DEFF" stroke="black" stroke-width="1.23189"/>
 <defs>
 <pattern id="pattern0_4790_436" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_4790_436" transform="matrix(0.000613497 0 0 0.000403551 -0.0753417 -0.00432719)"/>
 </pattern>
-<linearGradient id="paint0_linear_4790_436" x1="0" y1="15" x2="630" y2="15" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear_4790_436" x1="0" y1="18.4784" x2="776.094" y2="18.4784" gradientUnits="userSpaceOnUse">
 <stop stop-color="#050852"/>
 <stop offset="1" stop-color="#9D85C7"/>
 </linearGradient>
