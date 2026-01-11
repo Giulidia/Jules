@@ -18,7 +18,7 @@
   --bs-green: #198754;
   --bs-teal: #B99CDC;
   --bs-cyan: #B99CDC;
-  --bs-white: #fff;
+  --bs-white: #F0F0F0;
   --bs-gray: #6c757d;
   --bs-gray-dark: #343a40;
   --bs-gray-100: #f8f9fa;
@@ -58,7 +58,7 @@
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
   --bs-body-color: #212529;
-  --bs-body-bg: #fff;
+  --bs-body-bg: #F0F0F0;
 }
 
 *,
@@ -2875,7 +2875,7 @@ textarea.form-control-lg {
   color: #212529;
   text-align: center;
   white-space: nowrap;
-  background-color: #e9ecef;
+  background-color: #F0F0F0;
   border: 1px solid #ced4da;
 }
 
@@ -4214,12 +4214,12 @@ fieldset:disabled .btn {
 .dropdown-item:hover,
 .dropdown-item:focus {
   color: #1e2125;
-  background-color: #e9ecef;
+  background-color: #F0F0F0;
 }
 
 .dropdown-item.active,
 .dropdown-item:active {
-  color: #fff;
+  color: #F0F0F0;
   text-decoration: none;
   background-color: #dd99ff;
 }
